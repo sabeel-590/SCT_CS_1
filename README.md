@@ -90,13 +90,7 @@ Decrypted Output:
 HELLO
 
 
-### Encryption
 
-Add screenshot showing text encryption.
-
-### Decryption
-
-Add screenshot showing text decryption.
 
 
 ## Future Enhancements
