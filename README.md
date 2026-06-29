@@ -99,11 +99,6 @@ Add screenshot showing text encryption.
 Add screenshot showing text decryption.
 
 
-
-## Live Demo
-
-
-
 ## Future Enhancements
 
 - Copy Result Button
